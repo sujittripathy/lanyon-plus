@@ -6,7 +6,7 @@ description: "Blogging on ...."
 ---
 
 
-Maximum four posts on front page where first two posts are featured, and remaining are date sorted.
+<!-- *Maximum four posts on front page where first two posts are featured, and remaining are date sorted.* -->
 
 {% if site.twitter_widget_id %}
 <div class="text-tweets">
