@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of foo boo
+title: Personal Homepage of Sujit Tripathy
 description: "Blogging on ...."
 ---
 
